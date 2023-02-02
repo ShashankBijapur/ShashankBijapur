@@ -1,4 +1,4 @@
-# Hi👋 Im Shashank Bijapur
+# Hi👋 I'm Shashank Bijapur
 
 # 💫 About Me:
 <h2>An aspiring Full Stack Developer</h2>
