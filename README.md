@@ -5,6 +5,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-bijapur-b9b90a223)
+[![Portfolio Image](https://img.icons8.com/ios-filled/1x/portfolio.png)](https://shashankbijapur.github.io/)
 
 
 
