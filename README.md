@@ -1,7 +1,7 @@
 # Hi👋 I'm Shashank Bijapur
-
+<img width="400" align="right" src="https://i.pinimg.com/originals/1d/ab/8f/1dab8fb61e47f74063638301a492e7a1.jpg" />
 # 💫 About Me:
-<h2>An aspiring Full Stack Developer</h2><img width="400" align="right" src="https://i.pinimg.com/originals/1d/ab/8f/1dab8fb61e47f74063638301a492e7a1.jpg" />
+<h2>An aspiring Full Stack Developer</h2>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-bijapur-b9b90a223)
